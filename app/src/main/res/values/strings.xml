@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HappyBirthday</string>
+    <string name="smile">Smile!</string>
+    <string name="its">It\'s</string>
+    <string name="your">Your</string>
+    <string name="birthday">Birthday!</string>
+    <string name="hbd">Happy Birthday!</string>
+    <string name="alex">From, Alex!</string>
+    <string name="minions">Minions</string>
+    </resources>
